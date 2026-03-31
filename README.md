@@ -18,8 +18,6 @@ Cada pasta representa um trabalho diferente;
 ## 🛠 Tecnologias utilizadas
 
 * HTML
-* CSS
-* JavaScript
 * PHP
 
 ## 📷 Observações
