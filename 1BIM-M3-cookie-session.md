@@ -31,7 +31,7 @@ Cookies e sessions são mecanismos utilizados para manter informações entre re
 
 ---
 
-##Exercício 2
+## Exercício 2
 
 Em um sistema de loja virtual, cookies e sessions podem ser utilizados de forma complementar. Para manter o usuário logado, o ideal é utilizar sessions, pois os dados ficam armazenados no servidor, garantindo maior segurança. Para armazenar itens do carrinho de compras temporariamente, também é recomendado o uso de sessions, já que as informações podem ser alteradas dinamicamente e precisam de proteção contra manipulação. Já os cookies podem ser utilizados para armazenar preferências do usuário, como idioma, tema ou produtos visualizados, pois permanecem salvos no navegador mesmo após o usuário sair do site.
 
